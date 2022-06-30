@@ -1,0 +1,17 @@
+{
+  "name": "web-comment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "css",
+    "scss"
+  ],
+  "author": "Ruslan Sharipov",
+  "license": "ISC"
+}
